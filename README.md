@@ -7,13 +7,13 @@ Uma calculadora baseada em texto feita em C, você pode realizar nela as operaç
 ![alt text](image.png)
 
 ### Pré-requesitos:
-Você deve baixar o arquivo em C, e executa-lo do jeito que conseguir.
+Você deve ter um compilador C para compilar o código. Após isso, você deve executar esse código no terminal: gcc calculadora.c -o calculadora.exe
 
 ### Usos e exemplos:
-Você pode usa-lá para realizar operações matemáticas simples, como: soma, subtração, multiplicação e divisão. Você pode usar essas operações em um ida ao mercado por exemplo.
+Você pode usa-lá para realizar operações matemáticas simples, como: soma, subtração, multiplicação e divisão. Você pode usar essas operações em um ida ao mercado por exemplo. No terminal, seleciona uma opção de 1 a 5, para realizar operações ou sair do terminal. Após selecinoar uma operação, você deverá inserir dois números para a operação ser realizada. Após a operação, você será perguntado se deseja realizar outra operação ou não.
 
 ### Estrutura do projeto:
-Essa calculadora foi feita em C
+Essa calculadora foi feita na linguagem C
 
 ## Licença:
 MIT License
