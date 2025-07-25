@@ -13,7 +13,7 @@ Você deve ter um compilador C para compilar o código. Após isso, você deve e
 Você pode usa-lá para realizar operações matemáticas simples, como: soma, subtração, multiplicação e divisão. Você pode usar essas operações em um ida ao mercado por exemplo. No terminal, seleciona uma opção de 1 a 5, para realizar operações ou sair do terminal. Após selecinoar uma operação, você deverá inserir dois números para a operação ser realizada. Após a operação, você será perguntado se deseja realizar outra operação ou não.
 
 ### Estrutura do projeto:
-Essa calculadora foi feita na linguagem C
+Essa calculadora foi feita na linguagem C. Temos uma pasta com uma imagem. Temos a licença de uso. Temos o README.md. E temos o código em C
 
 ## Licença:
 MIT License
