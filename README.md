@@ -1,16 +1,16 @@
 # Calculadora-em-C
 
 ## Descrição do projeto:
-Uma calculadora baseada em texto feita em C
+Uma calculadora baseada em texto feita em C, você pode realizar nela as operações: soma, subtração, multiplicação e divisão. A calculadora funciona com um terminal interativo. Suporta operações com números não-inteiros (float).
 
 ### Imagem do projeto em execução:
-
+![alt text](image.png)
 
 ### Pré-requesitos:
 Você deve baixar o arquivo em C, e executa-lo do jeito que conseguir.
 
 ### Usos e exemplos:
-Você pode usa-lá para realizar operações matemáticas simples
+Você pode usa-lá para realizar operações matemáticas simples, como: soma, subtração, multiplicação e divisão. Você pode usar essas operações em um ida ao mercado por exemplo.
 
 ### Estrutura do projeto:
 Essa calculadora foi feita em C
